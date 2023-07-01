@@ -1,4 +1,4 @@
-# The-Sparks-Foundation
+# The Sparks Foundation
 
 ## Demo video:
 
